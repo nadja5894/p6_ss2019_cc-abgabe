@@ -1,4 +1,4 @@
-# CC6_SS2019_Abgabe_Lipphardt
+# CC6_190719_Abgabe_Lipphardt
 
 Zum Start der VVVV-Anwendung einfach die start.bat Datei öffnen.
 
