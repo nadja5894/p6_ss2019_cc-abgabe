@@ -7,6 +7,6 @@ Im Renderer befinden sich drei Button.
 
 Links: Ein Lied zurück.
 Mitte: Musik Start und Stop.
-Rechs: Ein Lied weiter.
+Rechts: Ein Lied weiter.
 
 Es ist ein Videofile hinterlegt, welches die Funktion zeigt.
