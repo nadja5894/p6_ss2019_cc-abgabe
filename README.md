@@ -11,7 +11,7 @@ Dabei waren die Zielsetzungen:
 
 2. Wechsel zwischen Liedern (inklusive Titelwechsel, Coverwechsel und farbliche Anpassung des 3D Objektes an das Cover)
 
-3. Verbindung von aus der Musik abgeleiteten Zahlen mit Maßen und anderen bezeichneten Zahlenfaktoren von Objekten und Formen.
+3. Verbindung von aus der Musik abgeleiteten Zahlen mit Maßen und anderen bezeichneten Zahlenfaktoren von Objekten und Formen (und den daraus resultierenden optischen Veränderungen)
 
 Nutzung:
 
